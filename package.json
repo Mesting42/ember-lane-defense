@@ -1,0 +1,27 @@
+{
+  "name": "ember-lane-defense",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "test": "node tools/test-game.mjs && node tools/test-ui.mjs && node tools/test-render.mjs && node tools/test-training.mjs && node tools/test-layout.mjs",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.0.11",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "fflate": "^0.8.3",
+    "happy-dom": "^21.0.3",
+    "three": "^0.180.0",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11"
+  }
+}

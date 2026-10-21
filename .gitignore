@@ -1,0 +1,25 @@
+# Installed dependencies and production output
+node_modules/
+dist/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated rendering intermediates and local verification output
+art-source/**/rendered-raw/
+art-source/**/verification/
+*.tsbuildinfo
+*.log
+coverage/
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]

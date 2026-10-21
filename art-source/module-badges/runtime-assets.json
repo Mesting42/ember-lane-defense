@@ -1,0 +1,74 @@
+[
+  {
+    "id": "module",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 46760
+  },
+  {
+    "id": "relaySync",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 45574
+  },
+  {
+    "id": "coil",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 52866
+  },
+  {
+    "id": "salvage",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 48782
+  },
+  {
+    "id": "ember",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 52416
+  },
+  {
+    "id": "coldAftershock",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 49476
+  },
+  {
+    "id": "droneCare",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 42904
+  },
+  {
+    "id": "alloy",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 56074
+  },
+  {
+    "id": "bossBreaker",
+    "size": [
+      384,
+      384
+    ],
+    "bytes": 51124
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "边界航道：余烬防线",
+  "short_name": "余烬防线",
+  "description": "原创科幻策略塔防游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c151a",
+  "theme_color": "#101b22",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Space Kit by Kenney
+https://kenney.nl/assets/space-kit
+CC0 1.0 Universal
+Modified: recolored hulls, custom threat modules, directional sprite rendering.

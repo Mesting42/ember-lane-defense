@@ -1,0 +1,5 @@
+Low Poly Sci Fi Turrets by Zsky (@Zsky_01)
+https://zsky2000.itch.io/low-poly-sci-fi-turrets
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Modified for Ember Horizon: metallic recoloring, custom relay antenna, scale normalization, split base and head, pre-rendered directional sprites and muzzle anchors.
+The original author does not endorse this game.
