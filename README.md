@@ -129,3 +129,14 @@ npm run build
 奖励页主图标与 8 种模块统一使用立体金属徽章：灰蓝装甲、冷青能源、暖铜结构，每种模块有独立的识别图案。图标按模块 ID 绑定，随机奖励换序也保持对应；手机端使用更大的图标栏。
 
 游戏素材位于 `public/assets/modules/`，为每张 384 × 384 的透明 WebP；整套约 436 KiB，页面只加载当前出现的徽章。ImageGen 生成的高清原图、完整提示词、预览和打包记录保留在 `art-source/module-badges/`，工具为 `tools/pack-module-badges.py`。
+
+<!-- pixel-pier-game-listing:start -->
+## Game listing / 游戏展示
+
+- **Game developer / 游戏开发者:** Mest ([@Mesting42](https://github.com/Mesting42))
+- **Pixel Pier listing / 游戏展示页面:** [Ember Lane Defense](https://riverglint.link/games/ember-lane-defense/)
+
+This game is listed on Pixel Pier with a play entry and game guide. This link identifies a game-development and listing relationship; it does not identify the developer as the website operator or operating entity.
+
+本游戏在 Pixel Pier 展示，并提供游玩入口与游戏指南。此链接仅表示游戏开发与展示关联，不代表开发者是该网站的运营者或运营主体。
+<!-- pixel-pier-game-listing:end -->
